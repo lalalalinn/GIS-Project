@@ -23,6 +23,9 @@ his/her list of daily deliveries.
 
  ### Milestone 2:
  - Rendor map (roads, transportations, POI, features , etc) and user interface using glade, ezgl and gtk.
+ - Connected to four-square API to provide POI information interactively if desired.
+ - Visualized public transportation (bus line, subway lines, stations, etc).
+ - Allow user to select specific categories of POI to be displayed. 
  - Load different maps without recompilation.
   
 ### Milestone 3:
